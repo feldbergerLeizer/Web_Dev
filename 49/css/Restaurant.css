@@ -1,0 +1,31 @@
+html {
+    background-color: black
+  }
+  
+  h1,h2,h3,p {
+    text-align: center;
+    color: ivory;
+  }
+
+  h2,h3{
+      font-weight: 600;
+      font-style: oblique;
+  }
+  
+  body{
+    border-width: 2px;
+    border-style: dashed;
+    border-color: ivory;
+    border-radius: 25px;
+  }
+  
+    
+    border-width: 2px;
+    border-style: dashed;
+    border-color: red;
+    border-bottom-width: 4px;
+    border-radius: 8px;
+  }
+  
+  header img {
+    width: 300px;
