@@ -1,0 +1,28 @@
+body {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    text-shadow:2px 2px 2px red;
+}
+
+h3{
+    font-style: italic;
+    transform: rotate(10deg);
+    text-shadow:2px 2px 2px red;
+}
+
+p {
+    transform: rotate(10deg);
+}
+
+html {
+    background-color: black;
+}
+
+#copyright {
+    font-weight: bolder;
+    text-shadow:2px 2px 2px red;
+  }

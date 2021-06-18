@@ -1,0 +1,55 @@
+html {
+    background-color: white
+  }
+  header {
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 80%;
+    margin: auto;
+    padding: 1em;
+    border-width: 2px;
+    border-style:groove;
+    border-color: red;
+    border-radius: 25px;
+  }
+  h2,h3 {
+      font-weight: 600;
+      font-style: oblique;
+  }
+
+  h1 {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: red;
+    border-radius: 100px;
+    text-shadow:2px 2px 2px red;
+  }
+  body {
+    color: teal;
+    
+  }
+  header img {
+    width: 60%;
+    padding-bottom: 1em;
+  }
+
+  a:link {
+    color: white;
+    font-style: italic;
+  }
+
+  a:hover {
+    color: fuchsia;
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  a:active {
+    color: greenyellow;
+    text-transform: uppercase;
+  }
+  
+  #copyright {
+    font-weight: bolder;
+  }
